@@ -1,0 +1,3 @@
+ dotnet pack --configuration Release
+ 
+ dotnet nuget push bin/Release/AspNetCore.DomainEvent.1.0.0.nupkg --api-key oy2az6bl34dd24qyivkarttuftp542oehczo3mm6wbewtu --source https://api.nuget.org/v3/index.json
