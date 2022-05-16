@@ -1,0 +1,10 @@
+E:\github\jjyy\AspNetCore.DomainEvent\bin\Debug\netstandard2.0\AspNetCore.DomainEvent.deps.json
+E:\github\jjyy\AspNetCore.DomainEvent\bin\Debug\netstandard2.0\AspNetCore.DomainEvent.dll
+E:\github\jjyy\AspNetCore.DomainEvent\bin\Debug\netstandard2.0\AspNetCore.DomainEvent.pdb
+E:\github\jjyy\AspNetCore.DomainEvent\obj\Debug\netstandard2.0\AspNetCore.DomainEvent.csproj.AssemblyReference.cache
+E:\github\jjyy\AspNetCore.DomainEvent\obj\Debug\netstandard2.0\AspNetCore.DomainEvent.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\jjyy\AspNetCore.DomainEvent\obj\Debug\netstandard2.0\AspNetCore.DomainEvent.AssemblyInfoInputs.cache
+E:\github\jjyy\AspNetCore.DomainEvent\obj\Debug\netstandard2.0\AspNetCore.DomainEvent.AssemblyInfo.cs
+E:\github\jjyy\AspNetCore.DomainEvent\obj\Debug\netstandard2.0\AspNetCore.DomainEvent.csproj.CoreCompileInputs.cache
+E:\github\jjyy\AspNetCore.DomainEvent\obj\Debug\netstandard2.0\AspNetCore.DomainEvent.dll
+E:\github\jjyy\AspNetCore.DomainEvent\obj\Debug\netstandard2.0\AspNetCore.DomainEvent.pdb
